@@ -1,0 +1,68 @@
+﻿<Window x:Class="Stamp_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stamp_App"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid Margin="20">
+        <StackPanel Width="350">
+
+            <Button Content="Select PDF"
+            Height="35"
+            Margin="0,0,0,5"
+            Click="SelectPdf_Click"/>
+
+            <TextBlock x:Name="PdfPathText"
+               Text="No PDF selected"
+               FontSize="12"
+               Foreground="Gray"
+               Margin="0,0,0,10"/>
+
+            <Button Content="Select Stamp Image"
+            Height="35"
+            Margin="0,0,0,5"
+            Click="SelectImage_Click"/>
+
+            <TextBlock x:Name="ImagePathText"
+               Text="No image selected"
+               FontSize="12"
+               Foreground="Gray"
+               Margin="0,0,0,15"/>
+
+            <!-- SIZE -->
+            <TextBlock Text="Stamp Size"/>
+            <Slider x:Name="SizeSlider"
+            Minimum="20"
+            Maximum="300"
+            Value="120"
+            Margin="0,0,0,10"/>
+
+            <!-- X POSITION -->
+            <TextBlock Text="X Position"/>
+            <Slider x:Name="XSlider"
+            Minimum="0"
+            Maximum="500"
+            Value="50"
+            Margin="0,0,0,10"/>
+
+            <!-- Y POSITION -->
+            <TextBlock Text="Y Position"/>
+            <Slider x:Name="YSlider"
+            Minimum="0"
+            Maximum="700"
+            Value="50"
+            Margin="0,0,0,15"/>
+
+            <Button Content="Stamp PDF"
+            Height="40"
+            Click="Stamp_Click"/>
+
+        </StackPanel>
+
+    </Grid>
+
+
+</Window>

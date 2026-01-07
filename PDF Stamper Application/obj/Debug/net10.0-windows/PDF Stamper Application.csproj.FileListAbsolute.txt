@@ -1,0 +1,42 @@
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application_MarkupCompile.cache
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application_MarkupCompile.lref
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\PDF Stamper Application.exe
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\PDF Stamper Application.deps.json
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\PDF Stamper Application.runtimeconfig.json
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\PDF Stamper Application.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\PDF Stamper Application.pdb
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.barcodes.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.forms.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.io.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.kernel.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.layout.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.pdfa.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.sign.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.styledxmlparser.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.svg.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\itext.commons.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\fortu\PDF Stamper Application\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.csproj.AssemblyReference.cache
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.g.resources
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.AssemblyInfoInputs.cache
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.AssemblyInfo.cs
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.csproj.CoreCompileInputs.cache
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stam.E2517A6C.Up2Date
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.dll
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\refint\PDF Stamper Application.dll
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.pdb
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\PDF Stamper Application.genruntimeconfig.cache
+C:\Users\fortu\PDF Stamper Application\obj\Debug\net10.0-windows\ref\PDF Stamper Application.dll
